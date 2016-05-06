@@ -1,7 +1,7 @@
 name: unnoticeable
 favicon: null
-layout_spectrum: 0.9844070000108331
-typography_spectrum: 0.06415877025574446
+layout_spectrum: 1
+typography_spectrum: 0.26305
 cta:
   domain: null
   bucket: null
